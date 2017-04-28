@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1493114974241" stop="1493116868851" version="1.5.1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : ContactUsTest</name>
+    <title>Suite : ContactUsTest</title>
+    <test-cases>
+        <test-case start="1493115004602" stop="1493115007664" status="passed">
+            <name>clickedModelSelectBackground</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="clickedModelSelectBackground"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115007668" stop="1493115008751" status="passed">
+            <name>isModelSelectDisabledOnHomePage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="isModelSelectDisabledOnHomePage"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115008753" stop="1493115012106" status="passed">
+            <name>modelIsEnabledIfSelectMake</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="modelIsEnabledIfSelectMake"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115012108" stop="1493115048001" status="passed">
+            <name>modelSelected</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="modelSelected"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115048006" stop="1493115135702" status="passed">
+            <name>modelValueIsInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="modelValueIsInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115135705" stop="1493115215701" status="passed">
+            <name>modelsAreTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="modelsAreTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115215703" stop="1493115221246" status="passed">
+            <name>noModelInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="noModelInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115221253" stop="1493115226151" status="passed">
+            <name>selectModelByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+                <label name="testMethod" value="selectModelByDefault"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115269387" stop="1493115270880" status="passed">
+            <name>advSearchHorizModelLabelDisplayed</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="advSearchHorizModelLabelDisplayed"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115270883" stop="1493115272029" status="passed">
+            <name>advSearchHorizModelSelectDisplayed</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="advSearchHorizModelSelectDisplayed"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115272031" stop="1493115276580" status="passed">
+            <name>clickedModelSelectBackground</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="clickedModelSelectBackground"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115276582" stop="1493115277589" status="passed">
+            <name>isModelSelectDisabledOnHomePage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="isModelSelectDisabledOnHomePage"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115277590" stop="1493115279293" status="passed">
+            <name>modelIsEnabledIfSelectMake</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="modelIsEnabledIfSelectMake"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115279295" stop="1493115295995" status="failed">
+            <name>modelIsFromURL</name>
+            <failure>
+                <message>AssertionError: expected [36320] but found []</message>
+                <stack-trace>java.lang.AssertionError: expected [36320] but found []
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory.modelIsFromURL(AdvSearchHorizModelSelectOnInventory.java:143)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="modelIsFromURL"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115295996" stop="1493115332504" status="passed">
+            <name>modelSelected</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="modelSelected"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115332507" stop="1493115416835" status="passed">
+            <name>modelValueIsInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="modelValueIsInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115416837" stop="1493115483169" status="passed">
+            <name>modelsAreTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="modelsAreTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115483171" stop="1493115487813" status="passed">
+            <name>noModelInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="noModelInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115487816" stop="1493115489739" status="passed">
+            <name>selectModelByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+                <label name="testMethod" value="selectModelByDefault"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115622015" stop="1493115624872" status="passed">
+            <name>clickedModelSelectBackground</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="clickedModelSelectBackground"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115624873" stop="1493115625885" status="passed">
+            <name>isModelSelectDisabledOnHomePage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="isModelSelectDisabledOnHomePage"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115625887" stop="1493115629083" status="passed">
+            <name>modelIsEnabledIfSelectMake</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="modelIsEnabledIfSelectMake"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115629085" stop="1493115662795" status="passed">
+            <name>modelSelected</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="modelSelected"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115662798" stop="1493115751192" status="passed">
+            <name>modelValueIsInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="modelValueIsInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115751197" stop="1493115820261" status="passed">
+            <name>modelsAreTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="modelsAreTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115820263" stop="1493115825117" status="passed">
+            <name>noModelInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="noModelInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115825118" stop="1493115826942" status="passed">
+            <name>selectModelByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+                <label name="testMethod" value="selectModelByDefault"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115958430" stop="1493115960660" status="passed">
+            <name>clickedStyleSelectBackground</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="clickedStyleSelectBackground"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115960662" stop="1493115961740" status="passed">
+            <name>isStyleSelectEnabledOnHomePage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="isStyleSelectEnabledOnHomePage"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115961741" stop="1493115966308" status="passed">
+            <name>noStyleInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="noStyleInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115966312" stop="1493115967442" status="passed">
+            <name>selectStyleByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="selectStyleByDefault"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493115967444" stop="1493116020088" status="passed">
+            <name>styleNumberIsTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="styleNumberIsTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116020090" stop="1493116046390" status="passed">
+            <name>styleSelected</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="styleSelected"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116046392" stop="1493116124356" status="passed">
+            <name>styleValueIsInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="styleValueIsInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116124362" stop="1493116176356" status="passed">
+            <name>styleValueIsTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+                <label name="testMethod" value="styleValueIsTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116307308" stop="1493116310757" status="passed">
+            <name>clickSearchWithoutOdometer</name>
+            <description>Click search without selecting odometer - in search results should be from min to max odometers</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="clickSearchWithoutOdometer"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116310758" stop="1493116311920" status="passed">
+            <name>fromSliderIsEnabled</name>
+            <description>from slider is enabled by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="fromSliderIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116311921" stop="1493116313053" status="passed">
+            <name>isProgressBarBlue</name>
+            <description>Progress bar is blue</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="isProgressBarBlue"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116313057" stop="1493116335436" status="passed">
+            <name>odoFromIsMinOdoFromInventory</name>
+            <description>from odometer equals the min odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoFromIsMinOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116335445" stop="1493116356473" status="passed">
+            <name>odoGridFirstValueIsMinOdoFromInventory</name>
+            <description>grid first value equals the min odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoGridFirstValueIsMinOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116356477" stop="1493116377098" status="passed">
+            <name>odoGridLastValueIsMaxOdoFromInventory</name>
+            <description>grid last value equals the max odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoGridLastValueIsMaxOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116377101" stop="1493116400239" status="passed">
+            <name>odoMaxIsMaxOdoFromInventory</name>
+            <description>max odometer equals the max odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoMaxIsMaxOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116400241" stop="1493116422082" status="passed">
+            <name>odoMinIsMinOdoFromInventory</name>
+            <description>min odometer equals the min odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoMinIsMinOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116422084" stop="1493116447693" status="passed">
+            <name>odoToIsMaxOdoFromInventory</name>
+            <description>to odometer equals the max odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odoToIsMaxOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116447696" stop="1493116448894" status="passed">
+            <name>odometerMaxValueHidden</name>
+            <description>Odometer min value visibility is hidden by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerMaxValueHidden"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116448895" stop="1493116450728" status="passed">
+            <name>odometerMaxValueVisible</name>
+            <description>Slide odometer to - max odometer should be visible</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerMaxValueVisible"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116450729" stop="1493116453312" status="passed">
+            <name>odometerMinValueHidden</name>
+            <description>Odometer min value visibility is hidden by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerMinValueHidden"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116453316" stop="1493116455516" status="passed">
+            <name>odometerMinValueVisible</name>
+            <description>Slide odometer from - min odometer should be visible</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerMinValueVisible"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116455517" stop="1493116457331" status="passed">
+            <name>odometerPrimaryProgressBar</name>
+            <description>Slide odometer from and odometer to on the same value - progress bar width is 0</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerPrimaryProgressBar"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116457333" stop="1493116460785" status="passed">
+            <name>odometerPrimaryValueAppears2</name>
+            <description>Slide odometer from and odometer to on the same value - appears odometer primary value (odometerTo is invisible)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerPrimaryValueAppears2"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116460790" stop="1493116463206" status="passed">
+            <name>odometerPrimaryValueInURL</name>
+            <description>Slide odometer from and odometer to on the same value - click search - odometer from and odometer to should be the same (ex. 20000)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerPrimaryValueInURL"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116463207" stop="1493116466509" status="passed">
+            <name>odometerProgressBarDefaultWidth</name>
+            <description>Progress bar width is full by default (92,2636%)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="odometerProgressBarDefaultWidth"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116466511" stop="1493116468285" status="passed">
+            <name>progressBarWidthChangedFrom</name>
+            <description>Slide odometer from - progress bar width is changed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="progressBarWidthChangedFrom"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116468286" stop="1493116470025" status="passed">
+            <name>progressBarWidthChangedTo</name>
+            <description>Slide odometer to - progress bar width is changed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="progressBarWidthChangedTo"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116470027" stop="1493116471113" status="passed">
+            <name>toSliderIsEnabled</name>
+            <description>to slider is enabled by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="toSliderIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116471115" stop="1493116474124" status="passed">
+            <name>yearPrimaryValueAppears</name>
+            <description>Slide odometer from and odometer to on the same value - appears odometer primary value (odometerFrom is visible) </description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+                <label name="testMethod" value="yearPrimaryValueAppears"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116603846" stop="1493116609269" status="passed">
+            <name>clickSearchWithoutPrice</name>
+            <description>Click search without selecting price - in search results should be from min to max prices</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="clickSearchWithoutPrice"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116609271" stop="1493116610501" status="passed">
+            <name>fromSliderIsEnabled</name>
+            <description>from slider is enabled by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="fromSliderIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116610502" stop="1493116613153" status="passed">
+            <name>isProgressBarBlue</name>
+            <description>Progress bar is blue</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="isProgressBarBlue"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116613154" stop="1493116633703" status="passed">
+            <name>odoGridLastValueIsMaxOdoFromInventory</name>
+            <description>grid last value equals the max price value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="odoGridLastValueIsMaxOdoFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116633710" stop="1493116652843" status="passed">
+            <name>opriceFromIsMinPriceFromInventory</name>
+            <description>from price equals the min odometer value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="opriceFromIsMinPriceFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116652845" stop="1493116660122" status="passed">
+            <name>priceCurrencyFromIsFromLocalization</name>
+            <description>currency symbol of from value is from localization settings</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceCurrencyFromIsFromLocalization"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116660124" stop="1493116667899" status="passed">
+            <name>priceCurrencyToIsFromLocalization</name>
+            <description>currency symbol of to value is from localization settings</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceCurrencyToIsFromLocalization"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116667900" stop="1493116687287" status="passed">
+            <name>priceGridFirstValueIsMinPriceFromInventory</name>
+            <description>grid first value equals the min price value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceGridFirstValueIsMinPriceFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116687289" stop="1493116707777" status="passed">
+            <name>priceMaxIsMaxPriceFromInventory</name>
+            <description>max price equals the max price value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMaxIsMaxPriceFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116707778" stop="1493116710420" status="passed">
+            <name>priceMaxValueHidden</name>
+            <description>Price max value visibility is hidden by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMaxValueHidden"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116710421" stop="1493116712187" status="passed">
+            <name>priceMaxValueVisible</name>
+            <description>Slide price to - max price should be visible</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMaxValueVisible"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116712188" stop="1493116729816" status="passed">
+            <name>priceMinIsMinPriceFromInventory</name>
+            <description>min price equals the min price value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMinIsMinPriceFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116729817" stop="1493116730875" status="passed">
+            <name>priceMinValueHidden</name>
+            <description>Price min value visibility is hidden by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMinValueHidden"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116730876" stop="1493116734016" status="passed">
+            <name>priceMinValueVisible</name>
+            <description>Slide price from - min price should be visible</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceMinValueVisible"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116734018" stop="1493116735818" status="passed">
+            <name>pricePrimaryValueAppears</name>
+            <description>Slide price from and price to on the same value - appears price primary value (priceFrom is visible) </description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="pricePrimaryValueAppears"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116735821" stop="1493116737606" status="passed">
+            <name>pricePrimaryValueAppears2</name>
+            <description>Slide price from and price to on the same value - appears price primary value (priceTo is invisible)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="pricePrimaryValueAppears2"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116737607" stop="1493116742085" status="passed">
+            <name>pricePrimaryValueInURL</name>
+            <description>Slide price from and price to on the same value - click search - price from and price to should be the same (ex. 20000)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="pricePrimaryValueInURL"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116742087" stop="1493116743780" status="passed">
+            <name>priceProgressBarDefaultWidth</name>
+            <description>Progress bar width is full by default (92,2636%)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceProgressBarDefaultWidth"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116743781" stop="1493116763912" status="passed">
+            <name>priceToIsMaxPriceFromInventory</name>
+            <description>to price equals the max price value from dms inventory</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="priceToIsMaxPriceFromInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116763920" stop="1493116767205" status="passed">
+            <name>progressBarWidthChangedFrom</name>
+            <description>Slide price from - progress bar width is changed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="progressBarWidthChangedFrom"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116767206" stop="1493116768936" status="passed">
+            <name>progressBarWidthChangedTo</name>
+            <description>Slide price to - progress bar width is changed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="progressBarWidthChangedTo"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493116768939" stop="1493116770009" status="passed">
+            <name>toSliderIsEnabled</name>
+            <description>to slider is enabled by default</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+                <label name="testMethod" value="toSliderIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="3272@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

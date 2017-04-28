@@ -1,0 +1,2227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1493211581854" stop="1493211966850" version="1.5.1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : ContactUsTest</name>
+    <title>Suite : ContactUsTest</title>
+    <test-cases>
+        <test-case start="1493211625819" stop="1493211715907" status="passed">
+            <name>adminPartExists</name>
+            <description>widget has not Admin part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="adminPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211715925" stop="1493211715971" status="passed">
+            <name>auctionModeLabelDoesnotExist</name>
+            <description>widget has not Auction Mode label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="auctionModeLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211715973" stop="1493211716016" status="passed">
+            <name>auctionModeSelectDoesnotExist</name>
+            <description>widget has not Auction Mode select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="auctionModeSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716018" stop="1493211716060" status="passed">
+            <name>cancelBtnExists</name>
+            <description>widget has Cancel button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="cancelBtnExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716062" stop="1493211716092" status="passed">
+            <name>cancelBtnIsEnabled</name>
+            <description>cancel button is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="cancelBtnIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716094" stop="1493211716212" status="passed">
+            <name>cancelBtnIsHover</name>
+            <description>Cancel button is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="cancelBtnIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716213" stop="1493211716267" status="passed">
+            <name>colorVariationIsEnabled</name>
+            <description>color variation select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="colorVariationIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716268" stop="1493211716324" status="passed">
+            <name>colorVariationLabelExists</name>
+            <description>widget has Color Variation label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="colorVariationLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716325" stop="1493211716357" status="passed">
+            <name>colorVariationSelectExists</name>
+            <description>widget has Color Variation select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="colorVariationSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716359" stop="1493211716402" status="passed">
+            <name>crossExists</name>
+            <description>widget has cross under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="crossExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716404" stop="1493211716432" status="passed">
+            <name>crossIsEnabled</name>
+            <description>cross is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="crossIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716434" stop="1493211716521" status="passed">
+            <name>crossIsHover</name>
+            <description>cross is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="crossIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716522" stop="1493211716565" status="passed">
+            <name>filterSettingsPartExists</name>
+            <description>widget has Filter Settings part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="filterSettingsPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716568" stop="1493211716617" status="passed">
+            <name>filterVehicleTagsIsEnabled</name>
+            <description>filter vehicle tags edit button select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="filterVehicleTagsIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716618" stop="1493211716661" status="passed">
+            <name>filterVehicleTagsLabelExists</name>
+            <description>widget has Filter Vehicle Tags label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="filterVehicleTagsLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716664" stop="1493211716698" status="passed">
+            <name>filterVehicleTagsSelectExists</name>
+            <description>widget has Filter Vehicle Tags edit button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="filterVehicleTagsSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716699" stop="1493211716750" status="passed">
+            <name>invMotorTypeIsEnabled</name>
+            <description>inventory motorized type select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invMotorTypeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716752" stop="1493211716803" status="passed">
+            <name>invMotorTypeLabelExists</name>
+            <description>widget has Inventory Motorized Type label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invMotorTypeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716805" stop="1493211716838" status="passed">
+            <name>invMotorTypeSelectExists</name>
+            <description>widget has Inventory Motorized Type select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invMotorTypeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716840" stop="1493211716886" status="passed">
+            <name>invStatusIsEnabled</name>
+            <description>inventory status select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invStatusIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716888" stop="1493211716937" status="passed">
+            <name>invStatusLabelExists</name>
+            <description>widget has Inventory Status label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invStatusLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716938" stop="1493211716973" status="passed">
+            <name>invStatusSelectExists</name>
+            <description>widget has Inventory Status select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="invStatusSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211716974" stop="1493211717018" status="passed">
+            <name>okBtnExists</name>
+            <description>widget has OK button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="okBtnExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717019" stop="1493211717049" status="passed">
+            <name>okBtnIsEnabled</name>
+            <description>Ok button is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="okBtnIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717050" stop="1493211717163" status="passed">
+            <name>okBtnIsHover</name>
+            <description>OK button is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="okBtnIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717164" stop="1493211717207" status="passed">
+            <name>otherOptionsPartExists</name>
+            <description>widget has Other Options part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="otherOptionsPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717209" stop="1493211717252" status="passed">
+            <name>paidDealersOnlyLabelDoesnotExist</name>
+            <description>widget has not Paid Dealers Only label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="paidDealersOnlyLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717254" stop="1493211717315" status="passed">
+            <name>paidDealersOnlySelectDoesnotExist</name>
+            <description>widget has not Paid Dealers Only select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="paidDealersOnlySelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717317" stop="1493211717615" status="passed">
+            <name>placeholderInSearchDoesnotExistWhenPutValue</name>
+            <description>put some word in search input - 'search...' text is not displayed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="placeholderInSearchDoesnotExistWhenPutValue"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717618" stop="1493211717762" status="passed">
+            <name>placeholderInSearchExistsWhenClick</name>
+            <description>click in search input - 'search...' text is displayed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="placeholderInSearchExistsWhenClick"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717763" stop="1493211717807" status="passed">
+            <name>priorityRangesLabelDoesnotExist</name>
+            <description>widget has not Priority Ranges label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="priorityRangesLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717808" stop="1493211717852" status="passed">
+            <name>priorityRangesSelectDoesnotExist</name>
+            <description>widget has not Priority Ranges select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="priorityRangesSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717854" stop="1493211717887" status="passed">
+            <name>searchInputExists</name>
+            <description>widget has search input under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="searchInputExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717889" stop="1493211717944" status="passed">
+            <name>searchInputIcon</name>
+            <description>Search input has search icon</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="searchInputIcon"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211717947" stop="1493211718107" status="passed">
+            <name>searchInputIsClickable</name>
+            <description>search input is clickable (higligted when focused)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="searchInputIsClickable"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718109" stop="1493211718147" status="passed">
+            <name>searchInputPlaceholder</name>
+            <description>Search input has placeholder 'Search...'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="searchInputPlaceholder"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718149" stop="1493211718172" status="passed">
+            <name>searchIsEnabled</name>
+            <description>search input is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="searchIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718174" stop="1493211718215" status="passed">
+            <name>sellerTypeIsEnabled</name>
+            <description>seller type select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sellerTypeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718218" stop="1493211718272" status="passed">
+            <name>sellerTypeLabelExists</name>
+            <description>widget has Seller Type label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sellerTypeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718273" stop="1493211718307" status="passed">
+            <name>sellerTypeSelectExists</name>
+            <description>widget has Seller Type select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sellerTypeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718308" stop="1493211718359" status="passed">
+            <name>settingsTitleExists</name>
+            <description>widget settings title exists (Advances Search (horizontal) Settings)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="settingsTitleExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718360" stop="1493211718438" status="passed">
+            <name>showResetFiltersIsEnabled</name>
+            <description>show reset filters select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="showResetFiltersIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718440" stop="1493211718496" status="passed">
+            <name>showResetFiltersLabelExists</name>
+            <description>widget has Show Reset Filters label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="showResetFiltersLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718498" stop="1493211718531" status="passed">
+            <name>showResetFiltersSelectExists</name>
+            <description>widget has Show Reset Filters select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="showResetFiltersSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718532" stop="1493211718574" status="passed">
+            <name>sliderThemeIsEnabled</name>
+            <description>slider theme select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sliderThemeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718576" stop="1493211718619" status="passed">
+            <name>sliderThemeLabelExists</name>
+            <description>widget has Slider Theme label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sliderThemeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718621" stop="1493211718651" status="passed">
+            <name>sliderThemeSelectExists</name>
+            <description>widget has Slider Theme select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="sliderThemeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718652" stop="1493211718695" status="passed">
+            <name>styleLayoutPartExists</name>
+            <description>widget has Style &amp; Layout part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="styleLayoutPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718697" stop="1493211718741" status="passed">
+            <name>useAltLayoutIsEnabled</name>
+            <description>use alternative layout select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="useAltLayoutIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718742" stop="1493211718788" status="passed">
+            <name>useAltLayoutLabelExists</name>
+            <description>widget has Use Alternative Layout label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="useAltLayoutLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718790" stop="1493211718822" status="passed">
+            <name>useAltLayoutSelectExists</name>
+            <description>widget has Use Alternative Layout select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="useAltLayoutSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211718823" stop="1493211808858" status="passed">
+            <name>useSearchByZipLabelDoesnotExist</name>
+            <description>widget has not Use Search by ZIP label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="useSearchByZipLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211808861" stop="1493211898912" status="passed">
+            <name>useSearchByZipSelectDoesnotExist</name>
+            <description>widget has not Use Search by ZIP select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="useSearchByZipSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211898919" stop="1493211898973" status="passed">
+            <name>wowAnimIsEnabled</name>
+            <description>wow animation select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="wowAnimIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211898976" stop="1493211899019" status="passed">
+            <name>wowAnimLabelExists</name>
+            <description>widget has WOW animation label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="wowAnimLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211899021" stop="1493211899051" status="passed">
+            <name>wowAnimSelectExists</name>
+            <description>widget has WOW animation select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+                <label name="testMethod" value="wowAnimSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951396" stop="1493211951545" status="failed">
+            <name>adminPartExists</name>
+            <description>widget has not Admin part under manager</description>
+            <failure>
+                <message>AssertionError: expected [false] but found [true]</message>
+                <stack-trace>java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.adminPartExists(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:59)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="adminPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951546" stop="1493211951615" status="failed">
+            <name>auctionModeLabelDoesnotExist</name>
+            <description>widget has not Auction Mode label under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.auctionModeLabelDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:189)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="auctionModeLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951616" stop="1493211951663" status="failed">
+            <name>auctionModeSelectDoesnotExist</name>
+            <description>widget has not Auction Mode select under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.auctionModeSelectDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:184)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="auctionModeSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951664" stop="1493211951736" status="passed">
+            <name>cancelBtnExists</name>
+            <description>widget has Cancel button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="cancelBtnExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951737" stop="1493211951772" status="passed">
+            <name>cancelBtnIsEnabled</name>
+            <description>cancel button is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="cancelBtnIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951773" stop="1493211951884" status="passed">
+            <name>cancelBtnIsHover</name>
+            <description>Cancel button is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="cancelBtnIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951886" stop="1493211951927" status="passed">
+            <name>colorVariationIsEnabled</name>
+            <description>color variation select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="colorVariationIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951928" stop="1493211951974" status="passed">
+            <name>colorVariationLabelExists</name>
+            <description>widget has Color Variation label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="colorVariationLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211951975" stop="1493211952004" status="passed">
+            <name>colorVariationSelectExists</name>
+            <description>widget has Color Variation select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="colorVariationSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952005" stop="1493211952056" status="passed">
+            <name>crossExists</name>
+            <description>widget has cross under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="crossExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952058" stop="1493211952087" status="passed">
+            <name>crossIsEnabled</name>
+            <description>cross is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="crossIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952089" stop="1493211952175" status="passed">
+            <name>crossIsHover</name>
+            <description>cross is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="crossIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952176" stop="1493211952219" status="passed">
+            <name>filterSettingsPartExists</name>
+            <description>widget has Filter Settings part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="filterSettingsPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952220" stop="1493211952278" status="passed">
+            <name>filterVehicleTagsIsEnabled</name>
+            <description>filter vehicle tags edit button select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="filterVehicleTagsIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952279" stop="1493211952326" status="passed">
+            <name>filterVehicleTagsLabelExists</name>
+            <description>widget has Filter Vehicle Tags label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="filterVehicleTagsLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952327" stop="1493211952376" status="passed">
+            <name>filterVehicleTagsSelectExists</name>
+            <description>widget has Filter Vehicle Tags edit button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="filterVehicleTagsSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952377" stop="1493211952428" status="passed">
+            <name>invMotorTypeIsEnabled</name>
+            <description>inventory motorized type select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invMotorTypeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952430" stop="1493211952491" status="passed">
+            <name>invMotorTypeLabelExists</name>
+            <description>widget has Inventory Motorized Type label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invMotorTypeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952492" stop="1493211952528" status="passed">
+            <name>invMotorTypeSelectExists</name>
+            <description>widget has Inventory Motorized Type select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invMotorTypeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952530" stop="1493211952572" status="passed">
+            <name>invStatusIsEnabled</name>
+            <description>inventory status select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invStatusIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952574" stop="1493211952616" status="passed">
+            <name>invStatusLabelExists</name>
+            <description>widget has Inventory Status label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invStatusLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952617" stop="1493211952648" status="passed">
+            <name>invStatusSelectExists</name>
+            <description>widget has Inventory Status select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="invStatusSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952649" stop="1493211952693" status="passed">
+            <name>okBtnExists</name>
+            <description>widget has OK button under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="okBtnExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952695" stop="1493211952728" status="passed">
+            <name>okBtnIsEnabled</name>
+            <description>Ok button is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="okBtnIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952729" stop="1493211952835" status="passed">
+            <name>okBtnIsHover</name>
+            <description>OK button is hover</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="okBtnIsHover"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952838" stop="1493211952886" status="passed">
+            <name>otherOptionsPartExists</name>
+            <description>widget has Other Options part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="otherOptionsPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952888" stop="1493211952935" status="failed">
+            <name>paidDealersOnlyLabelDoesnotExist</name>
+            <description>widget has not Paid Dealers Only label under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.paidDealersOnlyLabelDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:159)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="paidDealersOnlyLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952936" stop="1493211952981" status="failed">
+            <name>paidDealersOnlySelectDoesnotExist</name>
+            <description>widget has not Paid Dealers Only select under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.paidDealersOnlySelectDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:154)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="paidDealersOnlySelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211952982" stop="1493211953254" status="passed">
+            <name>placeholderInSearchDoesnotExistWhenPutValue</name>
+            <description>put some word in search input - 'search...' text is not displayed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="placeholderInSearchDoesnotExistWhenPutValue"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953257" stop="1493211953394" status="passed">
+            <name>placeholderInSearchExistsWhenClick</name>
+            <description>click in search input - 'search...' text is displayed</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="placeholderInSearchExistsWhenClick"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953396" stop="1493211953442" status="failed">
+            <name>priorityRangesLabelDoesnotExist</name>
+            <description>widget has not Priority Ranges label under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.priorityRangesLabelDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:179)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="priorityRangesLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953443" stop="1493211953487" status="failed">
+            <name>priorityRangesSelectDoesnotExist</name>
+            <description>widget has not Priority Ranges select under manager</description>
+            <failure>
+                <message>AssertionError: expected [hidden] but found [visible]</message>
+                <stack-trace>java.lang.AssertionError: expected [hidden] but found [visible]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.priorityRangesSelectDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:174)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="priorityRangesSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953488" stop="1493211953702" status="passed">
+            <name>searchByAlternativeLabel</name>
+            <description>search use alternative layout setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByAlternativeLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953704" stop="1493211953918" status="passed">
+            <name>searchByAlternativeSelect</name>
+            <description>search use alternative layout setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByAlternativeSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211953921" stop="1493211954063" status="passed">
+            <name>searchByColorLabel</name>
+            <description>search color variation setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByColorLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954064" stop="1493211954181" status="passed">
+            <name>searchByColorSelect</name>
+            <description>search color variation setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByColorSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954182" stop="1493211954312" status="passed">
+            <name>searchByFilterVehicleTagsLabel</name>
+            <description>search filter vehicle tags setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByFilterVehicleTagsLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954314" stop="1493211954449" status="passed">
+            <name>searchByFilterVehicleTagsSelect</name>
+            <description>search filter vehicle tags setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByFilterVehicleTagsSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954450" stop="1493211954631" status="passed">
+            <name>searchByInvMotorTypeLabel</name>
+            <description>search inventory motorized type setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByInvMotorTypeLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954632" stop="1493211954804" status="passed">
+            <name>searchByInvMotorTypeSelect</name>
+            <description>search inventory motorized type setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByInvMotorTypeSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211954806" stop="1493211955042" status="passed">
+            <name>searchByInvStatusLabel</name>
+            <description>search inventory status setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByInvStatusLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955044" stop="1493211955282" status="passed">
+            <name>searchByInvStatusSelect</name>
+            <description>search inventory status setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByInvStatusSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955284" stop="1493211955414" status="passed">
+            <name>searchByPaidDealersLabel</name>
+            <description>search show reset filters setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByPaidDealersLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955415" stop="1493211955545" status="passed">
+            <name>searchByPaidDealersSelect</name>
+            <description>search paid dealers only setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByPaidDealersSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955546" stop="1493211955686" status="passed">
+            <name>searchByPaidDealersSelectInviz</name>
+            <description>search paid dealers only setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByPaidDealersSelectInviz"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955688" stop="1493211955901" status="passed">
+            <name>searchBySellerTypeLabel</name>
+            <description>search seller type setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchBySellerTypeLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211955903" stop="1493211956116" status="passed">
+            <name>searchBySellerTypeSelect</name>
+            <description>search slider theme setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchBySellerTypeSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956117" stop="1493211956272" status="passed">
+            <name>searchByShowResetFiltersLabel</name>
+            <description>search show reset filters setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByShowResetFiltersLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956274" stop="1493211956421" status="passed">
+            <name>searchByShowResetFiltersSelect</name>
+            <description>search show reset filters setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByShowResetFiltersSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956423" stop="1493211956643" status="passed">
+            <name>searchBySliderLabel</name>
+            <description>search slider theme setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchBySliderLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956644" stop="1493211956833" status="passed">
+            <name>searchBySliderSelect</name>
+            <description>search slider theme setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchBySliderSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956835" stop="1493211956978" status="passed">
+            <name>searchByWowLabel</name>
+            <description>search wow animation setting - label is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByWowLabel"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211956979" stop="1493211957137" status="passed">
+            <name>searchByWowSelect</name>
+            <description>search wow animation setting - select is shown</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchByWowSelect"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957138" stop="1493211957167" status="passed">
+            <name>searchInputExists</name>
+            <description>widget has search input under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchInputExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957169" stop="1493211957202" status="passed">
+            <name>searchInputIcon</name>
+            <description>Search input has search icon</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchInputIcon"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957203" stop="1493211957275" status="passed">
+            <name>searchInputIsClickable</name>
+            <description>search input is clickable (higligted when focused)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchInputIsClickable"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957277" stop="1493211957298" status="passed">
+            <name>searchInputPlaceholder</name>
+            <description>Search input has placeholder 'Search...'</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchInputPlaceholder"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957299" stop="1493211957320" status="passed">
+            <name>searchIsEnabled</name>
+            <description>search input is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="searchIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957321" stop="1493211957350" status="passed">
+            <name>sellerTypeIsEnabled</name>
+            <description>seller type select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sellerTypeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957351" stop="1493211957373" status="passed">
+            <name>sellerTypeLabelExists</name>
+            <description>widget has Seller Type label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sellerTypeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957375" stop="1493211957398" status="passed">
+            <name>sellerTypeSelectExists</name>
+            <description>widget has Seller Type select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sellerTypeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957400" stop="1493211957450" status="passed">
+            <name>settingsTitleExists</name>
+            <description>widget settings title exists (Advances Search (horizontal) Settings)</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="settingsTitleExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957451" stop="1493211957483" status="passed">
+            <name>showResetFiltersIsEnabled</name>
+            <description>show reset filters select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="showResetFiltersIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957484" stop="1493211957510" status="passed">
+            <name>showResetFiltersLabelExists</name>
+            <description>widget has Show Reset Filters label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="showResetFiltersLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957511" stop="1493211957537" status="passed">
+            <name>showResetFiltersSelectExists</name>
+            <description>widget has Show Reset Filters select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="showResetFiltersSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957538" stop="1493211957574" status="passed">
+            <name>sliderThemeIsEnabled</name>
+            <description>slider theme select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sliderThemeIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957575" stop="1493211957596" status="passed">
+            <name>sliderThemeLabelExists</name>
+            <description>widget has Slider Theme label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sliderThemeLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957597" stop="1493211957620" status="passed">
+            <name>sliderThemeSelectExists</name>
+            <description>widget has Slider Theme select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="sliderThemeSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957621" stop="1493211957664" status="passed">
+            <name>styleLayoutPartExists</name>
+            <description>widget has Style &amp; Layout part under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="styleLayoutPartExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957666" stop="1493211957714" status="passed">
+            <name>useAltLayoutIsEnabled</name>
+            <description>use alternative layout select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="useAltLayoutIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957716" stop="1493211957772" status="passed">
+            <name>useAltLayoutLabelExists</name>
+            <description>widget has Use Alternative Layout label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="useAltLayoutLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957774" stop="1493211957812" status="passed">
+            <name>useAltLayoutSelectExists</name>
+            <description>widget has Use Alternative Layout select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="useAltLayoutSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957814" stop="1493211957873" status="failed">
+            <name>useSearchByZipLabelDoesnotExist</name>
+            <description>widget has not Use Search by ZIP label under manager</description>
+            <failure>
+                <message>AssertionError: expected [false] but found [true]</message>
+                <stack-trace>java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.useSearchByZipLabelDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:169)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="useSearchByZipLabelDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957874" stop="1493211957934" status="failed">
+            <name>useSearchByZipSelectDoesnotExist</name>
+            <description>widget has not Use Search by ZIP select under manager</description>
+            <failure>
+                <message>AssertionError: expected [false] but found [true]</message>
+                <stack-trace>java.lang.AssertionError: expected [false] but found [true]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertFalse(Assert.java:63)
+	at org.testng.Assert.assertFalse(Assert.java:73)
+	at dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor.useSearchByZipSelectDoesnotExist(AdvSearchHorizWidgetSettingsDisplayedSupervisor.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:86)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:643)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:820)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1128)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:782)
+	at org.testng.TestRunner.run(TestRunner.java:632)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:366)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:361)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:319)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:268)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1244)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1169)
+	at org.testng.TestNG.run(TestNG.java:1064)
+	at org.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:72)
+	at org.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:127)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:147)
+</stack-trace>
+            </failure>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="useSearchByZipSelectDoesnotExist"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957935" stop="1493211957967" status="passed">
+            <name>wowAnimIsEnabled</name>
+            <description>wow animation select is enabled under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="wowAnimIsEnabled"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957969" stop="1493211957989" status="passed">
+            <name>wowAnimLabelExists</name>
+            <description>widget has WOW animation label under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="wowAnimLabelExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493211957991" stop="1493211958014" status="passed">
+            <name>wowAnimSelectExists</name>
+            <description>widget has WOW animation select under manager</description>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+                <label name="testMethod" value="wowAnimSelectExists"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="8824@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

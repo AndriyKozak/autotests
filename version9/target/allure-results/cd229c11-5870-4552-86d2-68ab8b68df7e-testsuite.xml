@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1493188887833" stop="1493189075004" version="1.5.1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : ContactUsTest</name>
+    <title>Suite : ContactUsTest</title>
+    <test-cases>
+        <test-case start="1493188923629" stop="1493189068284" status="passed">
+            <name>tradeInWidgetDoesntExistInEditor</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizTurnOffAccessDealers"/>
+                <label name="testMethod" value="tradeInWidgetDoesntExistInEditor"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="4292@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

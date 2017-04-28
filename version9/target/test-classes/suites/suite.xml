@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" verbose="5" data-provider-thread-count="1" configfailurepolicy="continue">
+    <parameter name="browserName" value="chrome"/>
+    <test name="ContactUsTest">
+        <classes>
+            <!--<class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizElementsDisplayed"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelect"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnCustom"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelect"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnInventory"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizModelSelectOnCustom"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnCustom"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnCustom"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnCustom"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelect"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizStyleSelectOnInventory"/>
+
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlide"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizOdometerSlideOnInventory"/>
+
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlide"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizPriceSlideOnInventory"/>
+
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizSearchButton"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizResetFiltersButton"/>
+
+
+
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizTurnOffAccessDealers"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizTurnOnAccessDealers"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizTurnOffAccessSites"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizTurnOnAccessSites"/>-->
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedManager"/>
+            <class name="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizWidgetSettingsDisplayedSupervisor"/>
+        </classes>
+    </test>
+
+</suite>

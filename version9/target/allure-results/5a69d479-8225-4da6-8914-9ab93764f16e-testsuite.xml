@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1492506422010" stop="1492506444150" version="1.5.1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : ContactUsTest</name>
+    <title>Suite : ContactUsTest</title>
+    <test-cases>
+        <test-case start="1492506429749" stop="1492506444143" status="passed">
+            <name>test</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.TestBase"/>
+                <label name="testMethod" value="test"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="5948@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

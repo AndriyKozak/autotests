@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1493027867918" stop="1493028160261" version="1.5.1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : ContactUsTest</name>
+    <title>Suite : ContactUsTest</title>
+    <test-cases>
+        <test-case start="1493027899430" stop="1493027901305" status="passed">
+            <name>advSearchHorizMakeLabelDisplayed</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="advSearchHorizMakeLabelDisplayed"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027901309" stop="1493027903734" status="passed">
+            <name>advSearchHorizMakeSelectDisplayed</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="advSearchHorizMakeSelectDisplayed"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027903736" stop="1493027905460" status="passed">
+            <name>clickedMakeSelectBackground</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="clickedMakeSelectBackground"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027905468" stop="1493027906468" status="passed">
+            <name>isMakeSelectEnabledOnHomePage</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="isMakeSelectEnabledOnHomePage"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027906470" stop="1493027943195" status="passed">
+            <name>makeIsFromURL</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="makeIsFromURL"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027943198" stop="1493027969758" status="passed">
+            <name>makeSelected</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="makeSelected"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493027969764" stop="1493028042866" status="passed">
+            <name>makeValueIsInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="makeValueIsInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493028042871" stop="1493028060289" status="passed">
+            <name>makesAreTheSameWithInventory</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="makesAreTheSameWithInventory"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493028060292" stop="1493028062927" status="passed">
+            <name>noMakeInSearchResult</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="noMakeInSearchResult"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1493028062929" stop="1493028064065" status="passed">
+            <name>selectMakeByDefault</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="testSuite" value="Suite"/>
+                <label name="testGroup" value="ContactUsTest"/>
+                <label name="testClass" value="dmsDws.tools.map2.widgets.advancedSearchHorizontal.AdvSearchHorizMakeSelectOnInventory"/>
+                <label name="testMethod" value="selectMakeByDefault"/>
+                <label name="host" value="Julia-PC"/>
+                <label name="thread" value="6404@Julia-PC.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
