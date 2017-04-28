@@ -6,5 +6,6 @@ package dmsDws.dmsHomePage.dmsHelp;
 public class test2 {
     public static void main(String[] args) {
         System.out.println("ha ha ha");
+        System.out.println("test test test");
     }
 }
